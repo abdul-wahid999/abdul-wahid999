@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Abdul-Wahid
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python devoloper
+- 📫 How to reach me ...
